@@ -3,6 +3,7 @@
 <head>
 <meta charset="utf-8" />
 <title>Inicio</title>
+<link href="css/estilos.css" rel="stylesheet" type="text" />
 </head>
 <body style="background-color:blueviolet;">
 El html es un lenguaje de marcas entre &lt;etiquetas &nbsp; &nbsp; &nbsp; &gt;
